@@ -1,2 +1,2 @@
 # Xamarin-QR_Reader
-QR Reader for xamarin
+QR Reader for android devices developed on xamarin
