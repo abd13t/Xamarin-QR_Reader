@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:QR"
+             x:Class="QR.MainPage">
+
+    <StackLayout HorizontalOptions="Center"
+                 VerticalOptions="Center"
+                 Spacing="20">
+        
+        <Button Text="Stat scan"
+                TextColor="White"
+                BackgroundColor="DarkBlue"
+                x:Name="btnScan"  
+                Clicked="btnScan_Clicked"/>
+        
+        <Label x:Name="txtBarcode" 
+               FontSize="Large"
+               Text="scanned text"
+               HorizontalTextAlignment="Center"/>
+    </StackLayout>
+
+</ContentPage>

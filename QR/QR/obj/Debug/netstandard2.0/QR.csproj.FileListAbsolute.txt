@@ -1,0 +1,12 @@
+C:\Projets_VS\QR\QR\QR\bin\Debug\netstandard2.0\QR.deps.json
+C:\Projets_VS\QR\QR\QR\bin\Debug\netstandard2.0\QR.dll
+C:\Projets_VS\QR\QR\QR\obj\Debug\netstandard2.0\QR.csprojAssemblyReference.cache
+C:\Projets_VS\QR\QR\QR\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Projets_VS\QR\QR\QR\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Projets_VS\QR\QR\QR\obj\Debug\netstandard2.0\QR.csproj.CoreCompileInputs.cache
+C:\Projets_VS\QR\QR\QR\obj\Debug\netstandard2.0\QR.AssemblyInfoInputs.cache
+C:\Projets_VS\QR\QR\QR\obj\Debug\netstandard2.0\QR.AssemblyInfo.cs
+C:\Projets_VS\QR\QR\QR\bin\Debug\netstandard2.0\QR.pdb
+C:\Projets_VS\QR\QR\QR\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Projets_VS\QR\QR\QR\obj\Debug\netstandard2.0\QR.dll
+C:\Projets_VS\QR\QR\QR\obj\Debug\netstandard2.0\QR.pdb
